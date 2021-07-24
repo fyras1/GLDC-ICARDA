@@ -1,0 +1,13 @@
+name: GLDC
+title: GLDC
+username:
+account: fyras1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2717837
+bundleId: 3565684
+url: https://fyras1.shinyapps.io/GLDC/
+when: 1598576787.44072
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|data.csv|data2.csv|dataF.csv

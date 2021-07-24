@@ -1,0 +1,23 @@
+ID_Option,Crops,RESEARCH/TECHNOLOGY OPTIONS,BCR,Poverty ,Child Malnutrition
+6_Op1,Soybean,"Use of good quality seed, appropriate seeding rate and row spacing",7,-37518,82
+6_Op2,Soybean,Drought-tolerant varieties and crop management and water conservation practices,8,-63196,63
+6_Op3,Soybean,Matching varieties that fit the growing period,6,-33824,52
+6_Op4,Soybean,Breeding for resistance to parasitic weeds and integrated weed management,1,-5473,50
+6_Op5,Soybean,Disease-resistant varieties and integrated pest management and crop management practices,8,-43629,50
+6_Op6,Groundnuts,Rosette-resistant variety,14,-211580,13
+6_Op7,Groundnut,Drought-tolerant/resistant variety and short-duration (early- maturing) variety,8,-125934,7
+6_Op8,Groundnut,Moderately-resistant variety (for short-duration variety) and highly-resistant variety (for medium- and long-duration varieties) to early and late leaf spot,2,-31587,3
+6_Op9,Groundnut,"Soil fertility management for P and other nutrients (N, Ca) including chemical/organic fertilizers application",6,-66827,1
+6_Op10,Groundnut,Low P-tolerant/efficient variety,1,-13943,0
+6_Op11,Groundnut,Pre and postharvest aflatoxin management practices including Good Agricultural Practices (GAP),5,-56761,0
+6_Op12,Cowpea,Striga and Alectra-resistant varieties and integrated crop management,2,-12417,-34
+6_Op13,Cowpea,Low P-tolerant varieties and integrated crop management,3,-17443,-38
+6_Op14,Cowpea,Disease-resistant varieties and integrated crop management,2,-20321,-43
+6_Op15,Cowpea,Drought-tolerant varieties and integrated crop management,4,-32787,-60
+6_Op16,Cowpea,"Lines resistant to insects (aphid, thrip, pod sucking bug, maruca)  and integrated crop management",4,-35471,-68
+6_Op17,Sorghum,"Integrated crop management options for soil fertility, water management, Striga, intercropping",4,-40619,-151
+6_Op18,Sorghum,Medium- to late-maturing anthracnose-resistant cultivars,5,-40619,-152
+6_Op19,Sorghum,Varieties and hybrids with resistance to Striga,4,-40619,-152
+6_Op20,Sorghum,Early-maturing varieties and hybrids with tolerance to drought,12,-78088,-240
+6_Op21,Soybean,Establish optimum planting window and awareness creation,6,-36150,-281204
+6_Op22,Soybean,"Use of inoculant and fertilizers, especially Phosphorus",10,-50374,-281204

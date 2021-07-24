@@ -1,0 +1,13 @@
+name: GLDC
+title: GLDC
+username:
+account: icarda-tn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2918060
+bundleId: 3687816
+url: https://icarda-tn.shinyapps.io/GLDC/
+when: 1601478048.42437
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|data.csv|data2.csv|dataF.csv

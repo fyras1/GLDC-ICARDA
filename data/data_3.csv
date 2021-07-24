@@ -1,0 +1,39 @@
+ID_Option,Crops,RESEARCH/TECHNOLOGY OPTIONS,BCR,Poverty ,Child Malnutrition
+3_Op1,Sorghum,Early-maturing varieties and hybrids with tolerance to drought,15,-100080,8739
+3_Op2,Sorghum,Stem borer/midge-tolerant cultivars,8,-76753,7050
+3_Op3,Sorghum,Striga-resistant varieties and hybrids,8,-76753,7050
+3_Op4,Sorghum,"Integrated crop management options for soil fertility, water management, Striga, intercropping.",5,-49439,4592
+3_Op5,Lentil,Weed management,1.2,-267,-77
+3_Op6,Groundnut,Pre and postharvest aflatoxin management practices including Good Agricultural Practices (GAP),7,-2780,-93
+3_Op7,Lentil,Ascochyta blight-resistant varieties,1.2,-335,-96
+3_Op8,Lentil,Rust-resistant varieties,1.2,-335,-96
+3_Op9,Groundnut,Low P-tolerant/efficient variety,2,-3200,-106
+3_Op10,Lentil,Drought-tolerant varieties,2,-704,-113
+3_Op11,Chickpea,Waterlogging-tolerant varieties and management practices,3,-369,-133
+3_Op12,Groundnut,"Soil fertility management for P and other nutrients (N, Ca) including chemical/organic fertilizers application",3,-1201,-134
+3_Op13,Cowpea,"Insect- (aphid, thrips, pod sucking bug, maruca) resistant lines and integrated crop management",4,-4761,-152
+3_Op14,Pigeonpea,"Varieties tolerant to pod borers, pod fly, pod bugs and integrated pest management",5,-3175,-155
+3_Op15,Finger millet,OPVs with host plant resistance to Striga hermonthica,2,-1198,-189
+3_Op16,Finger millet,Downy mildew- and smut-resistant dual-purpose OPVs and hybrid parents,3,-2642,-192
+3_Op17,Groundnut   ,Moderately-resistant variety (for short-duration variety) and highly-resistant variety (for medium- and long-duration varieties) to early and late leaf spot,3,-7250,-210
+3_Op18,Pigeonpea,Drought-tolerant varieties,9,-4509,-220
+3_Op19,Groundnut,Rosette-resistant variety,4,-7644,-225
+3_Op20,Pearl millet,Genetically diverse dual-purpose hybrid parents/cultivars with high and stable yields with disease resistance (downy mildew and blast),4,-12157,-233
+3_Op21,Pigeonpea,Cleisto varieties and maintenance breeding to reduce varietal degeneration due to out crossing,9,-5190,-249
+3_Op22,Groundnut,Drought-tolerant/resistant variety and short-duration (early-maturing) variety,10,-23219,-263
+3_Op23,Finger millet,"Early-maturing, drought-tolerant OPVs and hybrids which can give stable yields under severe drought conditions",3,-2642,-273
+3_Op24,Pigeonpea,Intercropping compatible-varieties and integrated crop management options,8,-5881,-278
+3_Op25,Pigeonpea,Photo- and thermo-insensitive varieties,12,-5881,-278
+3_Op26,Pearl millet,Validate and promote water management options; fertilizer regimes,5,-12810,-283
+3_Op27,Finger millet,"Varieties and hybrid parents with good establishment and that respond well to drought, especially terminal drought",5,-3041,-295
+3_Op28,Finger millet,Validate and promote water management options; fertilizer regimes,9,-2646,-309
+3_Op29,Chickpea,Ascochyta blight-resistant varieties,12,-1341,-310
+3_Op30,Cowpea,Disease-resistant varieties and integrated crop management,2,-2026,-319
+3_Op31,Cowpea,Striga-resistant varieties and integrated crop management,3,-2026,-319
+3_Op32,Pigeonpea,Fusarium wilt- and Cercospora leaf spot-resistant varieties,15,-8277,-329
+3_Op33,Pearl millet,"Early-maturing, drought-tolerant hybrids which can give stable yields under severe drought conditions",5,-17347,-347
+3_Op34,Pearl millet,Varieties and hybrid parents with good establishment and respond well to drought especially terminal drought,6,-20013,-347
+3_Op35,Chickpea,Drought-tolerant varieties,6,-1262,-376
+3_Op36,Cowpea,Low P-tolerant varieties and integrated crop management,3,-2925,-398
+3_Op37,Chickpea,Fusarium wilt- and root rots-resistant varieties,10,-1428,-427
+3_Op38,Cowpea,Drought-tolerant varieties and integrated crop management,5,-4372,-474

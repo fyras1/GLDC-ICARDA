@@ -152,32 +152,16 @@ server<- function(input, output, session) {
          
          df_final<-dfx[,c(input$id,input$crops,input$tech,input$bcr,input$poverty,input$nut,input$p)]
          
-       
-
          df_final
-         
-  
-      
+ 
     })
     
-    
-
-    
-    
-
  
-       output$dfx <- DT::renderDataTable(dfx(), selection= 'none' , editable = TRUE)
-  
-    
-    
-
-
-
+    output$dfx <- DT::renderDataTable(dfx(), selection= 'none' , editable = TRUE)
+ 
     
     output$graph<-renderPlot({
-        
-        
-        
+              
         g<-ggplot(dfx(),aes(x=1:nrow(dfx()),y=p))+
             geom_point(size=2.5,colour="red")+
             geom_line(lwd=1.1,colour="red")+
@@ -189,10 +173,7 @@ server<- function(input, output, session) {
         
         g
         
-    })
-    
-    
-    
+    })  
 }
 
 
